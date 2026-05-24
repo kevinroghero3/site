@@ -1,0 +1,125 @@
+{
+  "password": "vippino998",
+  "items": [
+    {
+      "title": "Github",
+      "ram": "16GB",
+      "cpu": "4 Core",
+      "disk": "32GB",
+      "sudo": true,
+      "24/7": true,
+      "location": "USA, Europe...",
+      "status": "Online",
+      "status_text": "Work",
+      "url": "https://github.com/"
+    },
+    {
+      "title": "Idx Google",
+      "ram": "16GB",
+      "cpu": "4 Core",
+      "disk": "30GB",
+      "sudo": true,
+      "24/7": true,
+      "location": "USA, Europe...",
+      "status": "Online",
+      "status_text": "Work",
+      "url": "https://idx.google.com/"
+    },
+    {
+      "title": "ChainIDE",
+      "ram": "16GB",
+      "cpu": "4 Core",
+      "disk": "100GB",
+      "sudo": true,
+      "24/7": true,
+      "location": "USA",
+      "status": "Online",
+      "status_text": "Work",
+      "url": "https://chainide.com/"
+    },
+    {
+      "title": "Google Shell",
+      "ram": "8GB",
+      "cpu": "2 Core",
+      "disk": "20GB",
+      "sudo": true,
+      "24/7": false,
+      "location": "USA",
+      "status": "Online",
+      "status_text": "Work",
+      "url": "https://shell.cloud.google.com/"
+    },
+    {
+      "title": "Xshellz",
+      "ram": "3GB",
+      "cpu": "8 Core",
+      "disk": "10GB",
+      "sudo": false,
+      "24/7": true,
+      "location": "USA",
+      "status": "Online",
+      "status_text": "Work",
+      "url": "https://www.xshellz.com/"
+    },
+    {
+      "title": "DeepNote",
+      "ram": "5GB",
+      "cpu": "2 Core",
+      "disk": "20GB",
+      "sudo": true,
+      "24/7": true,
+      "location": "USA",
+      "status": "Online",
+      "status_text": "Work",
+      "url": "https://deepnote.com/"
+    },
+    {
+      "title": "MarsCode",
+      "ram": "16GB",
+      "cpu": "16 Core",
+      "disk": "300GB",
+      "sudo": true,
+      "24/7": false,
+      "location": "USA",
+      "status": "Offline",
+      "status_text": "Service Terminated!",
+      "url": "https://www.marscode.com/"
+    },
+    {
+      "title": "Lightning Ai",
+      "ram": "16GB",
+      "cpu": "4 Core",
+      "disk": "100GB",
+      "sudo": true,
+      "24/7": false,
+      "location": "USA",
+      "status": "Warning",
+      "status_text": "Testing...",
+      "url": "https://lightning.ai/"
+    },
+    {
+      "title": "Gitpot",
+      "ram": "16GB",
+      "cpu": "8 Core",
+      "disk": "32GB",
+      "sudo": true,
+      "24/7": false,
+      "location": "USA",
+      "status": "Warning",
+      "status_text": "Testing...",
+      "url": "https://gitpod.io/"
+    },
+    {
+      "title": "CodeAnyWhere",
+      "ram": "8GB",
+      "cpu": "4 Core",
+      "disk": "100GB",
+      "sudo": true,
+      "24/7": false,
+      "location": "USA",
+      "status": "Warning",
+      "status_text": "Testing...",
+      "url": "https://app.codeanywhere.com/"
+    }
+  ]
+}
