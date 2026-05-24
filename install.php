@@ -148,7 +148,8 @@ if (isset($_POST['step2']) && $_POST['step2'] == 1) {
                     location VARCHAR(255) NOT NULL,
                     status VARCHAR(255) NOT NULL,
                     status_text VARCHAR(255) NOT NULL,
-                    url VARCHAR(255) NOT NULL
+                    url VARCHAR(255) NOT NULL,
+                    `order` INT DEFAULT 0
                 )";
                 if ($conn->query($sql_create_items_table) === TRUE) {
                     echo "Table 'items' created successfully or already exists<br>";
